@@ -14,7 +14,8 @@
 >Well,this is the simplest BMI calculator app that can be build so that it will be easier for beginners to learn.
 
 **Can I use other IDE other than Android Studio ?**
->Well,You can.There are lot of IDE's that can be found on the internet but the easiest and the Official IDE for Android Development is Android Studio By JetBrains.
+>Well,You can.There are lot of IDE's that can be found on the internet but the easiest and the Official IDE for Android App Development is Android Studio By JetBrains.
 
-**Where can I contact you if i need to ask you any queries ?**
->Well,You can just post any query in the Issues block which i guess it was not meant for that.If you really want to ask anything then just email me at __rodanramdam0818@gmail.com__ i will be replying as fast as i can do.
+**Where can I contact you if I need to ask you any queries ?**
+>Well,You can just post any query in the Issues block which I guess it was not meant for that.If you really want to ask anything then just email me at __rodanramdam0818@gmail.com__ I will be replying as fast as I can do.
+
