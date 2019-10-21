@@ -7,9 +7,12 @@
 2. Open the project with android studio.
 3. And then build it.
 ## Releases 
+
+_Releases contains apk and source code zip._
+
 [CLICK HERE TO GO TO RELEASES](https://github.com/rodan0818/BMI-Calculator/releases)
 
-#### App Screenshots :
+##App Screenshot :
 ![Screenshot_1571671822](https://user-images.githubusercontent.com/56137447/67219762-48efab80-f448-11e9-86fc-6ca04e60f79a.png)
 
 
