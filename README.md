@@ -2,7 +2,7 @@
 ### A simple android app that calculates your body mass index.
 
 ## BUILD INFORMATION
-##### There are many ways to build,the easiest way that I use found is 
+##### There are many ways to build,the easiest way that I  found is 
 1. Clone the project.
 2. Open the project with android studio.
 3. And then build it.
