@@ -1,22 +1,19 @@
 # BMI Calculator
 ### A simple android app that calculates your body mass index.
 
-
+## BUILD INFORMATION
 ##### There are many ways to build,the easiest way that I  found is 
 1. Clone the project.
 2. Open the project with android studio.
 3. And then build it.
-## Releases 
 
+## Releases 
 _Releases contains apk and source code zip._
 
 [CLICK HERE TO GO TO RELEASES](https://github.com/rodan0818/BMI-Calculator/releases)
 
-##App Screenshot :
+## App Screenshot :
 ![Screenshot_1571671822](https://user-images.githubusercontent.com/56137447/67219762-48efab80-f448-11e9-86fc-6ca04e60f79a.png)
-
-
-## BUILD INFORMATION
 
 # FAQ
 **Why the app is so simple ?**
